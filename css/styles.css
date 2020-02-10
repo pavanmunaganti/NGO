@@ -13,11 +13,9 @@
 .title{
     padding: 2rem;
 }
-#ab{
+.about{
     background-color: black;
-    color: white; padding: 2rem;
-    margin-left: auto;
-    margin-right: auto;
+    color: white; padding: 1rem;
 }
 .big-heading {
   font-size: 3.5rem;
@@ -26,6 +24,23 @@
 .social-icon{
    margin: 0.8rem;
    font-size: 28px;
+}
+.white-section{
+    background-color: white;
+    color: black;
+}
+#of{
+    position: relative;
+}
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+.list-inline .a{
+    color: white !important;
 }
 @media (max-width: 850px) {
     .blackd{
